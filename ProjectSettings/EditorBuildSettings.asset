@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 43c4487ec4f5d8643b42f42963b79ecf
   - enabled: 1
-    path: Assets/Scenes/Level_01.unity
+    path: Assets/Scenes/BallShooter_Level1_KaiSmith.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Level_02.unity
+    path: Assets/Scenes/BallShooter_Level2_KaiSmith.unity
     guid: 47a15b0e0f4e71b498519153ccc70662
   - enabled: 1
-    path: Assets/Scenes/Level_03.unity
+    path: Assets/Scenes/BallShooter_Level3_KaiSmith.unity
     guid: cb72925719a235648835ed9652b3fb1b
   - enabled: 1
     path: Assets/Scenes/Level_04.unity
