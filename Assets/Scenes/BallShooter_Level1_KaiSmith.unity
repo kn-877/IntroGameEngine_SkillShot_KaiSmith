@@ -3194,7 +3194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2271543735748642073, guid: f648810c93cb31344900c75bae72767f, type: 3}
       propertyPath: ShotsToComplete
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7962933043634422246, guid: f648810c93cb31344900c75bae72767f, type: 3}
       propertyPath: m_Name
