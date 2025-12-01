@@ -20,8 +20,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BallShooter_Level4_KaiSmith.unity
     guid: 781815e86fd28fc44a387b56f6a1d1d9
-  - enabled: 0
-    path: Assets/Scenes/Level_05.unity
+  - enabled: 1
+    path: Assets/Scenes/BallShooter_Level5_KaiSmith.unity
     guid: fc21d6631baaf4c45af1719e5c060db2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
